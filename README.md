@@ -29,7 +29,7 @@ print("Eigen values are",b,"and Eigen Vectors are",c)
 ```
 
 ## Output:
-![](Eigen.png)
+![](Maths%20Exp04%20Shakthi%20kumar%20S%20(22009242).png)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
